@@ -47,7 +47,7 @@
 
 ###
 
-<h4 align="left">linguagens totalmente estudadas e dominantes:</h4>
+<h4 align="left">linguagens estudadas *nem todas eu utilizo mais*:</h4>
 
 ###
 
