@@ -47,7 +47,7 @@
 
 ###
 
-<h4 align="left">linguagens estudadas *nem todas eu utilizo mais*:</h4>
+<h4 align="left">linguagens estudadas:</h4>
 
 ###
 
