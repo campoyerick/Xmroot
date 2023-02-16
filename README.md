@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Redes sociais:</h4>
+<h4 align="left">Social media:</h4>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">Linguagens mais usadas:</h4>
+<h4 align="left">Most used languages:</h4>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h4 align="left">Programas que *eu* utilizo:</h4>
+<h4 align="left">Programs that *I* use:</h4>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="center">Estatísticas :</h2>
+<h2 align="center">Statistics :</h2>
 
 ###
 
