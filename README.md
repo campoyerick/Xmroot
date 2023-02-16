@@ -1,8 +1,8 @@
-<h1 align="center">Seja bem vindo ao meu lugar de conhecimento!</h1>
+<h1 align="center">Welcome to my place of knowledge!</h1>
 
 ###
 
-<h3 align="center">Olá, na minha github você verá de tudo, desde o simples até o avancado!</h3>
+<h3 align="center">Hello, my name is Rick and I'm 17 years old, I've been studying programming for over 5/6 years.</h3>
 
 ###
 
