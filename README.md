@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">todos projetos exportados na githubs são codados e feitos por mim! ocorrer de existir projetos iguais, mas nunca serao com o mesmo codigo e mesmo jeito.</h3>
+<h3 align="center">Olá, na minha github você verá de tudo, desde o simples até o avancado!</h3>
 
 ###
 
