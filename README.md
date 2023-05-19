@@ -14,9 +14,8 @@ class Readme extends Desenvolvedor {
 }
 ```
 
-🎁 Gosto de projetar e criar, sou fanatico em criações malucas.
 
-🔓 Trabalho tanto para desenvolvimento da segurança, quanto no desenvolvimento grafico.
+🎁 Gosto de projetar e criar, sou fanatico em criações malucas.
 
 ----
 
