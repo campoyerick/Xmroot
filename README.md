@@ -9,7 +9,6 @@ import Desenvolvedor from 'Erick';
 class Readme extends Desenvolvedor {
   nome     = 'Erick';
   area    = 'Back/Front-end';
-  trabalho  = 'Rock Store';
   localidade = 'Brasil';
 }
 ```
