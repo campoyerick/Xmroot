@@ -1,13 +1,13 @@
-## 💜 Olá, meu nome é <strong>Erick!</strong>
+## 💜 Olá, meu nome é <strong>Rick!</strong>
 
 
 <img align="right" width="340" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
 ```js
-import Desenvolvedor from 'Erick';
+import Desenvolvedor from 'Rick';
 
 class Readme extends Desenvolvedor {
-  nome     = 'Erick';
+  nome     = 'Rick';
   area    = 'Back/Front-end';
   localidade = 'Brasil';
 }
