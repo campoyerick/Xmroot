@@ -26,3 +26,4 @@ class Readme extends Desenvolvedor {
 
 ## ⭐ Informações sobre minha conta da GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xmroot&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmroot&hide_progress=false)
