@@ -1,29 +1,22 @@
-## 💜 Olá, meu nome é <strong>Rick!</strong>
-
-
-<img align="right" width="340" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
 ```js
 import Desenvolvedor from 'Rick';
 
-class Readme extends Desenvolvedor {
+class Readme extends Developer {
   nome     = 'Rick';
   area    = 'Back/Front-end';
-  localidade = 'Brasil';
+  localidade = 'Brazil';
 }
 ```
 
-
-🎁 Gosto de projetar e criar, sou fanatico em criações malucas.
-
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,bash,cpp,c,figma,bots,mysql,nodejs,php,py,ts,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,cpp,c,figma,mysql,nodejs,php,py,ts,java)](https://skillicons.dev)
 
 ---
 
-## ⭐ Informações sobre minha conta da GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xmroot&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmroot&hide_progress=false)
